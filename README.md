@@ -1,1 +1,2 @@
-# snake-game
+# snake game
+Made be me
